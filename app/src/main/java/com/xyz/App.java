@@ -7,6 +7,8 @@ public class App {
         public static void main(String[] args) {
                 System.out.println("Hello World! Today is " + DateUtil.getToday());
                 System.out.println("edited code at master");
+                System.out.println("edited code at develeop");
+
         }
 
 }
